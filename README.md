@@ -1,2 +1,2 @@
 # basic-HTML-project
-this is very basic webpage for understanding of HTML and CSS
+This is very basic webpage for understanding HTML and CSS
