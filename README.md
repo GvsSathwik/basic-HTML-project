@@ -1,2 +1,2 @@
 # basic-HTML-project
-glade to share this file
+this is very basic webpage for understanding of HTML and CSS
